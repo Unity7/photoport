@@ -1,28 +1,29 @@
 {
   "files": {
-    "main.css": "/photoport/static/css/main.c1b92823.chunk.css",
-    "main.js": "/photoport/static/js/main.c8dc570d.chunk.js",
-    "main.js.map": "/photoport/static/js/main.c8dc570d.chunk.js.map",
-    "runtime-main.js": "/photoport/static/js/runtime-main.ca8124d6.js",
-    "runtime-main.js.map": "/photoport/static/js/runtime-main.ca8124d6.js.map",
+    "main.css": "/photoport/static/css/main.a7014280.chunk.css",
+    "main.js": "/photoport/static/js/main.025d627e.chunk.js",
+    "main.js.map": "/photoport/static/js/main.025d627e.chunk.js.map",
+    "runtime-main.js": "/photoport/static/js/runtime-main.03cb4670.js",
+    "runtime-main.js.map": "/photoport/static/js/runtime-main.03cb4670.js.map",
     "static/js/2.f70714af.chunk.js": "/photoport/static/js/2.f70714af.chunk.js",
     "static/js/2.f70714af.chunk.js.map": "/photoport/static/js/2.f70714af.chunk.js.map",
-    "static/js/3.58ef9c6f.chunk.js": "/photoport/static/js/3.58ef9c6f.chunk.js",
-    "static/js/3.58ef9c6f.chunk.js.map": "/photoport/static/js/3.58ef9c6f.chunk.js.map",
+    "static/js/3.274373f9.chunk.js": "/photoport/static/js/3.274373f9.chunk.js",
+    "static/js/3.274373f9.chunk.js.map": "/photoport/static/js/3.274373f9.chunk.js.map",
     "index.html": "/photoport/index.html",
-    "static/css/main.c1b92823.chunk.css.map": "/photoport/static/css/main.c1b92823.chunk.css.map",
+    "static/css/main.a7014280.chunk.css.map": "/photoport/static/css/main.a7014280.chunk.css.map",
     "static/js/2.f70714af.chunk.js.LICENSE.txt": "/photoport/static/js/2.f70714af.chunk.js.LICENSE.txt",
     "static/media/0.jpg": "/photoport/static/media/0.b18c130d.jpg",
     "static/media/1.jpg": "/photoport/static/media/1.ffe481f4.jpg",
     "static/media/2.jpg": "/photoport/static/media/2.da4d6061.jpg",
-    "static/media/3.jpg": "/photoport/static/media/3.dd376ef9.jpg",
+    "static/media/3.jpg": "/photoport/static/media/3.f332787c.jpg",
     "static/media/4.jpg": "/photoport/static/media/4.ed3b1a69.jpg",
-    "static/media/cover-image.533ae8f6.jpg": "/photoport/static/media/cover-image.533ae8f6.jpg"
+    "static/media/5.jpg": "/photoport/static/media/5.ba2ff300.jpg",
+    "static/media/bay.539dbe69.jfif": "/photoport/static/media/bay.539dbe69.jfif"
   },
   "entrypoints": [
-    "static/js/runtime-main.ca8124d6.js",
+    "static/js/runtime-main.03cb4670.js",
     "static/js/2.f70714af.chunk.js",
-    "static/css/main.c1b92823.chunk.css",
-    "static/js/main.c8dc570d.chunk.js"
+    "static/css/main.a7014280.chunk.css",
+    "static/js/main.025d627e.chunk.js"
   ]
 }
